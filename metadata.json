@@ -1,5 +1,5 @@
 {
-  "name": "ruby-chef1.9",
+  "name": "rubychef19",
   "description": "Installs Ruby 1.9.x from source",
   "long_description": "",
   "maintainer": "Carlo Zottmann",
