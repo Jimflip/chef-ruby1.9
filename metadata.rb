@@ -1,3 +1,4 @@
+name              "chefruby19"
 maintainer        "Carlo Zottmann"
 maintainer_email  "carlo@zottmann.org"
 license           "WTFPL"
